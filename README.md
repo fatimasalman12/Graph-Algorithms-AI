@@ -1,5 +1,5 @@
 # Graph-Algorithms-AI
-<strong>Problem</strong>
+Problem
 <br>
 Implement Depth-First Search (DFS), Breadth-First Search (BFS), Iterative Deepening Search (IDS) and Uniform
 Cost Search (UCS) algorithms to solve the 8-puzzle problem. The 8-puzzle consists of a 3x3 grid with 8 numbered
@@ -9,7 +9,8 @@ In addition, compare the efficiency of the four algorithms in terms of number of
 memory consumed, and time taken to find the solution. Report this comparison in a form of a table in a separate
 word file.
 <br>
-<strong>Sample Output</strong>
+Sample Output: 
+<br>
 Enter start State: 120345678
 <br>
 Enter goal State: 012345678
